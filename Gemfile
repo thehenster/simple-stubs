@@ -5,5 +5,5 @@ gem "database_cleaner"
 gem "factory_girl"
 gem "rspec", "~> 3.1"
 gem "rake"
-gem "sqlite3"
+gem 'sqlite3', '~> 1.3.6'
 gem "timecop"
